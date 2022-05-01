@@ -6,3 +6,4 @@ asyncio==3.4.3
 pyowm==3.3.0
 wikipedia==1.4.0
 regex==2022.3.15
+random2==1.0.1
